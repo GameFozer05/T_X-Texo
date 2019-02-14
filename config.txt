@@ -1,0 +1,3 @@
+token=NTQ1Njg2MTg2NDI1ODQzNzM0.D0dRig.kybfniAVFzmqH3CfCKD1ZLIXTiU 
+owner=480114808444682271
+prefix = $
